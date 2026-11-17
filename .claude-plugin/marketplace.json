@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "engineer-skills",
+  "description": "Nate's engineering skills for Claude Code.",
+  "owner": { "name": "Nate" },
+  "plugins": [
+    {
+      "name": "engineer",
+      "description": "Docs, architecture diagrams, system design, security review, code review, testing strategy, incidents, scrum and communication.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
