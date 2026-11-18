@@ -2,6 +2,9 @@
   "name": "engineer",
   "version": "0.1.0",
   "description": "Skills for the parts of engineering that aren't code: docs, architecture diagrams, system design, security review, code review, testing strategy, incidents, scrum and communication.",
-  "author": { "name": "Nate" },
-  "skills": "./skills"
+  "author": {
+    "name": "Nate"
+  },
+  "skills": "./skills",
+  "license": "MIT"
 }

@@ -52,3 +52,7 @@ call one directly with `/engineer:<skill>`, for example `/engineer:scrum-master`
 
 The quickest way to add one is to ask Claude: "make a `<name>` skill that …". The `skill-authoring` skill walks
 through it.
+
+## License
+
+MIT. See `LICENSE`.
