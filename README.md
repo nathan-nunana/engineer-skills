@@ -8,10 +8,10 @@ one only when a request calls for it.
 
 ## Install
 
-From GitHub, once the repo is pushed:
+From GitHub:
 
 ```sh
-claude plugin marketplace add <github-user>/engineer-skills
+claude plugin marketplace add nathan-nunana/engineer-skills
 claude plugin install engineer@engineer-skills
 ```
 
